@@ -9,7 +9,7 @@ A user can edit only his comment or campground as he is not authorized to edit o
 YelpCamp is a complex application built from scratch using the following technologies:
 Technologies used on Front-End: HTML5, CSS3, JavaScript, Bootstrap and jQuery.
 Technologies used for Back-End: NodeJS, NPM, ExpressJS, REST, Authentication, Authorization and PassportJS.
-Database: NoSQL- MongoDB.
+Database: NoSQL- MongoDB & Mongoose.
 The application was developed on Cloud9 IDE.
 
 This application will be updated further with more features and soon be deployed on Heroku.
